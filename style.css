@@ -1,0 +1,40 @@
+textarea {
+  resize: none;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.past-hour {
+  background-color: rgb(189, 189, 189);
+  border-color: gray;
+}
+
+.present-hour {
+  background-color: rgb(243, 12, 58);
+  border-color: rgb(243, 12, 58);
+}
+
+.future-hour {
+  background-color: rgb(90, 177, 90);
+  bordere-color: rgb(90, 177, 90);
+}
+
+button {
+  background-color: darkturquoise;
+  border-radius: 0px 5px 5px 0px;
+}
+
+header {
+  border-bottom-width: 10px;
+  text-color: red;
+}
+
+button {
+  font-size: 2em;
+}
