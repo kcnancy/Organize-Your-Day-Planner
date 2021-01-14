@@ -15,7 +15,14 @@ This is a video of the small screen version of the day planner:
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1gmVBg-ZB4iipdCTMnRZcmFtBNI8e37h5/preview" frameborder="0" allowfullscreen="true"> </iframe>
+  <video controls="true" allowfullscreen="true" poster="videoposter.png">
+    <source src="https://drive.google.com/file/d/1gmVBg-ZB4iipdCTMnRZcmFtBNI8e37h5/view?usp=sharing" type="video/webm">
+  </video>
 </figure>
 <!-- blank line -->
+
+
+
+
+
 
