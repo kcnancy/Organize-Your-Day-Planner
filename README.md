@@ -15,13 +15,21 @@ The Moment.js library was used with this project as the source for date and time
 
 This page has a flexible layout and in the small (phone or tablet) the save button is under the text box for each hour. 
 
+
 This link is to a video of the small screen version of the day planner:
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1gmVBg-ZB4iipdCTMnRZcmFtBNI8e37h5/view" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+
+https://drive.google.com/file/d/1gmVBg-ZB4iipdCTMnRZcmFtBNI8e37h5/view?usp=sharing
+
+
+## Potential future enhancements:
+
+- Multiple Days
+- 15 minute time blocks
+- Reminder alerts for upcoming events
+- Task list that isn't tied to a specific hour block
+
+
 
 
 
